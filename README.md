@@ -2,9 +2,9 @@
 
 A modular, Python-based Red Team adversary simulation framework for offensive security and red teaming exercises.
 
-⚠️ **DISCLAIMER**: This framework is for educational and authorized penetration testing purposes only. Use only on systems you own or have explicit permission to test. Unauthorized use is illegal and unethical.
+**DISCLAIMER**: This framework is for educational and authorized penetration testing purposes only. Use only on systems you own or have explicit permission to test. Unauthorized use is illegal and unethical.
 
-## 🚀 Features
+##  Features
 
 - **Modular Command & Control (C2) server** - Flask-based web interface
 - **Cross-platform Python agent** - Works on Windows, Linux, and macOS
@@ -14,7 +14,7 @@ A modular, Python-based Red Team adversary simulation framework for offensive se
 - **Easy to extend** - Simple module system for adding new capabilities
 - **Interactive C2 controller** - Command-line interface for operator interaction
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 advance_redteam_framework/
