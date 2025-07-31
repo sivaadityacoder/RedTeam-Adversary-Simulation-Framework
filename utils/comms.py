@@ -1,0 +1,1 @@
+# Placeholder for future encrypted comms helpers
